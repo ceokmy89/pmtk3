@@ -1,0 +1,3 @@
+PMTK3 requires version 2007a `(R14)` or newer, however with a few adjustments it should be possible to make most of it work on older versions. Here is a list of known compatibility issues and possible fixes.
+
+  * bsxfun, used extensively in PMTK3 was only released in 2007a. A replacement function is available on the [MATLAB file exchange](http://www.mathworks.com/matlabcentral/fileexchange/18685) but this has not been tested.
